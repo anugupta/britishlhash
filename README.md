@@ -9,8 +9,14 @@ on the keyboard.
 
 Read more in this blog post:
 
-http://grasuth.com/2010/11/03/remap-key-on-uk-keyboards/
+http://grasuth.com/2010/11/03/remap-key-on-uk-keyboards/ (site no longer exists)
 
+Installation
+-------
+
+copy this file to ~/Library/Keyboard Layouts rename it and remove .txt
+
+System Prefs > Keyboard > Input Sources, there should be another category, select BritishLHash
 
 License
 -------
